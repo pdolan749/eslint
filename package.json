@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-patrickdolan",
+  "version": "1.0.0",
+  "description": "ESLint rules according to pdolan749's personal preference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdolan749/eslint-config-patrickdolan.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "pdolan749",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pdolan749/eslint-config-patrickdolan/issues"
+  },
+  "homepage": "https://github.com/pdolan749/eslint-config-patrickdolan#readme"
+}
